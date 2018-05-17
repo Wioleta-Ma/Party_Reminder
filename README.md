@@ -1,0 +1,2 @@
+# Party_Reminder
+Bot Party Reminder będzie służyć do informowania o planowanych koncertach, imprezach sportowych, kulturalnych, turystycznych itd. Przygotowany kalendarz pozwoli szybko zapoznać się ze zbliżającymi się wydarzeniami przygotowanymi specjalnie dla studentów. Aby zapoznać się z zbliżającymi się wydarzeniami należy polubić stronę na facebooku „Party Reminder” a następnie w wiadomości prywatnej Messenger należy odpowiedzieć na kilka pytań bota. Bot analizując odpowiedzi da nam informacje jakich potrzebowaliśmy.
